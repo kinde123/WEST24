@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/WEST24/static/css/main.000c5117.css",
+    "main.css": "/WEST24/static/css/main.d691d90e.css",
     "main.js": "/WEST24/static/js/main.2fc13a66.js",
     "static/js/453.70aaab03.chunk.js": "/WEST24/static/js/453.70aaab03.chunk.js",
     "static/media/w7.png": "/WEST24/static/media/w7.b32f1ed72cf74d7679b8.png",
@@ -32,12 +32,12 @@
     "static/media/w30.webp": "/WEST24/static/media/w30.9c801293788babe93627.webp",
     "static/media/w9.webp": "/WEST24/static/media/w9.98d8d8b25e01c1a4d7ae.webp",
     "index.html": "/WEST24/index.html",
-    "main.000c5117.css.map": "/WEST24/static/css/main.000c5117.css.map",
+    "main.d691d90e.css.map": "/WEST24/static/css/main.d691d90e.css.map",
     "main.2fc13a66.js.map": "/WEST24/static/js/main.2fc13a66.js.map",
     "453.70aaab03.chunk.js.map": "/WEST24/static/js/453.70aaab03.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.000c5117.css",
+    "static/css/main.d691d90e.css",
     "static/js/main.2fc13a66.js"
   ]
 }
