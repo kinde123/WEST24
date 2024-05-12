@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/WEST24/static/css/main.c26d29cd.css",
-    "main.js": "/WEST24/static/js/main.2a4654a1.js",
+    "main.css": "/WEST24/static/css/main.ccf8c0cb.css",
+    "main.js": "/WEST24/static/js/main.22505b79.js",
     "static/js/453.55b1abf5.chunk.js": "/WEST24/static/js/453.55b1abf5.chunk.js",
     "static/media/w7.png": "/WEST24/static/media/w7.b32f1ed72cf74d7679b8.png",
     "static/media/w9.png": "/WEST24/static/media/w9.44a9210cc8b2a5cac57d.png",
@@ -18,6 +18,7 @@
     "static/media/w11.jpg": "/WEST24/static/media/w11.67bdf9cb9dce7d482c23.jpg",
     "static/media/w72.jpg": "/WEST24/static/media/w72.1b2898ace0958106d417.jpg",
     "static/media/w1.jpg": "/WEST24/static/media/w1.aa7982114d76c8615084.jpg",
+    "static/media/about.avif": "/WEST24/static/media/about.9740b4dfa3b718a5ba7f.avif",
     "static/media/w512.jpg": "/WEST24/static/media/w512.6ee69210d1516a4fbcd4.jpg",
     "static/media/w91.jpg": "/WEST24/static/media/w91.ef5e030790ba07426756.jpg",
     "static/media/w20.jpg": "/WEST24/static/media/w20.e9f3f02d13f5a17d24ec.jpg",
@@ -97,13 +98,14 @@
     "static/media/w21.webp": "/WEST24/static/media/w21.df1eb536c23dca7854a0.webp",
     "static/media/w99.webp": "/WEST24/static/media/w99.31d28421c924c14f49ac.webp",
     "static/media/w813.webp": "/WEST24/static/media/w813.adf0031579e134e3b8f1.webp",
+    "static/media/aga.webp": "/WEST24/static/media/aga.83004e259af29dc9cbe1.webp",
     "index.html": "/WEST24/index.html",
-    "main.c26d29cd.css.map": "/WEST24/static/css/main.c26d29cd.css.map",
-    "main.2a4654a1.js.map": "/WEST24/static/js/main.2a4654a1.js.map",
+    "main.ccf8c0cb.css.map": "/WEST24/static/css/main.ccf8c0cb.css.map",
+    "main.22505b79.js.map": "/WEST24/static/js/main.22505b79.js.map",
     "453.55b1abf5.chunk.js.map": "/WEST24/static/js/453.55b1abf5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c26d29cd.css",
-    "static/js/main.2a4654a1.js"
+    "static/css/main.ccf8c0cb.css",
+    "static/js/main.22505b79.js"
   ]
 }
