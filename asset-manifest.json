@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/WEST24/static/css/main.8feffe38.css",
-    "main.js": "/WEST24/static/js/main.cbe042cd.js",
+    "main.css": "/WEST24/static/css/main.907e858d.css",
+    "main.js": "/WEST24/static/js/main.66b5593f.js",
     "static/js/453.55b1abf5.chunk.js": "/WEST24/static/js/453.55b1abf5.chunk.js",
     "static/media/w7.png": "/WEST24/static/media/w7.b32f1ed72cf74d7679b8.png",
     "static/media/w9.png": "/WEST24/static/media/w9.44a9210cc8b2a5cac57d.png",
@@ -12,13 +12,13 @@
     "static/media/w6.webp": "/WEST24/static/media/w6.bb8c76a973a491b865a8.webp",
     "static/media/w61.webp": "/WEST24/static/media/w61.2dc7bee35541ba93ca70.webp",
     "static/media/w612.jpg": "/WEST24/static/media/w612.b2762fc6f79cec543816.jpg",
+    "static/media/about.jpg": "/WEST24/static/media/about.c05bfe1f6cca97409518.jpg",
     "static/media/w5123456.webp": "/WEST24/static/media/w5123456.3e71fe4ba826496bc3c1.webp",
     "static/media/w14.jpg": "/WEST24/static/media/w14.a589d1cf07566221cadd.jpg",
     "static/media/w12.jpg": "/WEST24/static/media/w12.3176eedd69611064a1cf.jpg",
     "static/media/w11.jpg": "/WEST24/static/media/w11.67bdf9cb9dce7d482c23.jpg",
     "static/media/w72.jpg": "/WEST24/static/media/w72.1b2898ace0958106d417.jpg",
     "static/media/w1.jpg": "/WEST24/static/media/w1.aa7982114d76c8615084.jpg",
-    "static/media/about.avif": "/WEST24/static/media/about.9740b4dfa3b718a5ba7f.avif",
     "static/media/w512.jpg": "/WEST24/static/media/w512.6ee69210d1516a4fbcd4.jpg",
     "static/media/w91.jpg": "/WEST24/static/media/w91.ef5e030790ba07426756.jpg",
     "static/media/w20.jpg": "/WEST24/static/media/w20.e9f3f02d13f5a17d24ec.jpg",
@@ -101,12 +101,12 @@
     "static/media/w99.webp": "/WEST24/static/media/w99.31d28421c924c14f49ac.webp",
     "static/media/w813.webp": "/WEST24/static/media/w813.adf0031579e134e3b8f1.webp",
     "index.html": "/WEST24/index.html",
-    "main.8feffe38.css.map": "/WEST24/static/css/main.8feffe38.css.map",
-    "main.cbe042cd.js.map": "/WEST24/static/js/main.cbe042cd.js.map",
+    "main.907e858d.css.map": "/WEST24/static/css/main.907e858d.css.map",
+    "main.66b5593f.js.map": "/WEST24/static/js/main.66b5593f.js.map",
     "453.55b1abf5.chunk.js.map": "/WEST24/static/js/453.55b1abf5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8feffe38.css",
-    "static/js/main.cbe042cd.js"
+    "static/css/main.907e858d.css",
+    "static/js/main.66b5593f.js"
   ]
 }
